@@ -160,16 +160,6 @@ button {
 }
 
 @media screen and (max-width: 600px) {
-  .navbar li:not(:first-child) {
-    display: none;
-  }
-  .navbar li.icon {
-    float: right;
-    display: block;
-  }
-}
-
-@media screen and (max-width: 600px) {
   .navbar.responsive {
     position: relative;
   }
